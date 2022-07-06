@@ -1,0 +1,313 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+/* 1st sec start */
+.hero_sec {
+  background-image: url(donation13.jpg);
+  min-height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero_box {
+  text-align: center;
+  padding: 250px;
+}
+.hero_box h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 65px;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 20px;
+}
+.hero_box p {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 15px;
+  padding: 0px 40px;
+}
+.hero_box a {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  padding: 20px 35px;
+  background-color: #ff5959;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 15px;
+  text-decoration: none;
+}
+/* 1st sec END */
+
+/* 2nd sec start */
+
+/* 1st */
+.first {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.first h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 45px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.first p {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: grey;
+}
+
+/* 2nd */
+.second {
+  display: flex;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.nofocus {
+  background-color: #f7f7f7;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 10px;
+}
+#nofocus_margin {
+  margin-left: 100px;
+}
+.focus {
+  background-color: #ffd7d7;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 10px;
+}
+.focus h1 {
+  color: #ff5959;
+}
+
+/* 3rd */
+.third {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+}
+.third p {
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 10px;
+  margin-right: 150px;
+}
+hr {
+  color: gray;
+  width: 50%;
+  margin-left: 335px;
+  margin-bottom: 50px;
+}
+.third a {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  padding: 20px 35px;
+  background-color: #ff5959;
+  border-radius: 10px;
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 150px;
+}
+/* 2nd sec END */
+
+/* 3rd sec start */
+.third_sec {
+  margin-bottom: 50px;
+}
+.first_div {
+  text-align: center;
+  margin-top: 100px;
+}
+.first_div h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 45px;
+  font-weight: 800;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.first_div p {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 15px 0px;
+}
+.sec_div {
+  display: flex;
+  margin-left: 250px;
+}
+.sec_div img {
+  margin-top: 25px;
+}
+.sec_div h1 {
+  font-size: 24px;
+  margin-top: 30px;
+}
+.sec_div p {
+  font-size: 16px;
+  margin-top: 30px;
+}
+.green {
+  background-color: #edf5f6;
+  height: 300px;
+  width: 400px;
+  margin: 50px 25px 50px 75px;
+  padding: 30px;
+}
+.red {
+  background-color: #ffeeee;
+  height: 300px;
+  width: 400px;
+  margin: 50px 25px 50px 25px;
+  padding: 30px;
+}
+.yello {
+  height: 300px;
+  width: 400px;
+  background-color: #fff4d6;
+  margin: 50px 75px 50px 25px;
+  padding: 30px;
+}
+/* 3rd sec END */
+/* 4th sec Start */
+.bg-left {
+  background-position: left 100px top 85px;
+}
+.other-section {
+  padding: 120px 0px;
+  padding: 0px 150px;
+}
+.top-banner {
+  display: flex;
+  margin-top: 5%;
+}
+.fourth-dawn a {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  padding: 20px 35px;
+  background-color: #ff5959;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 15px;
+  text-decoration: none;
+}
+h1.font-size {
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  color: black;
+}
+.font-paragraph {
+  line-height: 2rem;
+  color: gray;
+}
+.half-width {
+  padding: 30px;
+  color: gray;
+}
+.fourth-para {
+  padding-right: 50px;
+  padding-bottom: 25 px;
+}
+.fourth-section {
+  padding: 0px 250px;
+}
+/* 4th sec END */
+/* 5th sec Start */
+.last-section {
+  padding: 60px 250px;
+}
+.last-div {
+  margin-left: 30px;
+  margin-top: 80px;
+}
+/* 5th sec End */
+/* 6th sec start */
+.donation-area {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+}
+.gray-style {
+  color: gray;
+  text-align: center;
+  font-size: 150%;
+  padding: 0px 400px;
+  margin-top: 50px;
+}
+.email {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  margin-top: 0px;
+}
+.submittion {
+  color: white;
+  padding: 100px 150px;
+  border-radius: 5px;
+  background-color: bisque;
+  box-shadow: 5px 5px 5px white;
+}
+
+.submittion input {
+  font-size: 20px;
+  padding: 15px 100px 15px 10px;
+  color: gray;
+  background-color: rgb(218, 218, 218);
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.submittion ::placeholder {
+  color: gray;
+}
+
+.submittion button {
+  color: white;
+  background-color: tomato;
+  font-size: 20px;
+  padding: 15px 50px;
+  border: none;
+  border-radius: 5px;
+}
+/* 6th sec end */
+/* Footer END */
+.footer-colorNum {
+  color: #ff5959;
+}
+.footer-heading {
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+}
+.paragraph-footer {
+  text-align: center;
+  color: #d4d4d4;
+  font-family: "Poppins", sans-serif;
+}
+.footer-color {
+  height: 150px;
+  background-color: #000;
+  padding-top: 20px;
+}
+/* Footer End */
